@@ -1,0 +1,43 @@
+1543897376234	Rename resource 'home.jsp'
+1543898843403	Delete element
+1543899562937	Copy file
+1543899628824	Rename resource 'home2.jsp'
+1543900432687	Delete element
+1543900478227	Rename resource 'plgin'
+1543900954051	Move 'plugin' to 'platformadmin'
+1543901089763	Move 'platformadmin' to 'resources'
+1543901257488	Move 'platformadmin' to 'webapp'
+1543903546080	Delete element
+1543903548784	Move 'servlet-context.xml' to 'spring'
+1543903738223	Rename resource 'servlet-context.xml'
+1543903933680	Delete element
+1543904744624	Copy file
+1543904749976	Rename resource 'home.jsp'
+1543906750958	Move 'index.jsp' to 'platformadmin'
+1543908637571	Move 'error' to 'views'
+1543908723237	Copy file
+1543908757008	Delete element
+1543967107072	Delete element
+1543967110781	Delete element
+1543967124760	Delete element
+1543967141331	Delete elements
+1543976117783	Copy file
+1543976126037	Rename resource 'main.html'
+1543976132685	Copy file
+1543978192058	Delete element
+1543984318733	Rename package 'com.example.test.bo'
+1543984327482	Rename type 'apiContoller'
+1543985203914	Move 'VO.java' to 'common'
+1543985239970	Copy file
+1543985357296	Rename resource 'userVO.java'
+1543986920056	Rename resource 'UserService.java'
+1543987056691	Rename resource 'UserDao.java'
+1543987707507	Delete element
+1543994398389	Rename type 'UserDaoImp'
+1543994565672	Rename type 'Userdao'
+1543994943827	Rename resource 'mapper'
+1544089222184	Copy folder
+1544089233852	Copy folder
+1544089249670	Copy folder
+1544089259780	Copy file
+1544089268260	Copy file

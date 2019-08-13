@@ -1,0 +1,22 @@
+package dto;
+
+import org.apache.ibatis.type.Alias;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Alias("user")
+@Getter 
+@Setter 
+public class User { 
+	
+	private int idx; 
+	private String id; 
+	private String userName; 
+	private String pw; 
+	
+	@Override 
+	public String toString() { 
+		return new StringBuilder("{ idx : ").append(idx).append(", id : ").append(id).append(", name : ").append(name).append(" }").toString(); 
+	} 
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\YOON HEE\stsWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3500395911.index
+1014170607.index
+36609340.index
+1178149391.index
+377564498.index
+533190954.index

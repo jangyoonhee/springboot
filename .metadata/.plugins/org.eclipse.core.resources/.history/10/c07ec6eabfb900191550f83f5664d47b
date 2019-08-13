@@ -1,0 +1,20 @@
+package DTO;
+//https://m.blog.naver.com/PostView.nhn?blogId=software705&logNo=220773586095&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
+public class User {
+
+	private String name = "";
+	private String id = "";
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+}

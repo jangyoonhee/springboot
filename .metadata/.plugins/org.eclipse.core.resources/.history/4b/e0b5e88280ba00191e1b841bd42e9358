@@ -1,0 +1,14 @@
+spring: 
+  application:
+    name: boot01-1
+  datasource: 
+    hikari: 
+    
+      pool-name: hikari-cp
+      maximum-pool-size: 30
+      minimum-idle: 2
+      data-source-properties: 
+          cachePrepStmts: true
+          prepStmtCacheSize: 250
+          prepStmtCacheSqlLimit: 2048
+          useServerPrepStmts: true

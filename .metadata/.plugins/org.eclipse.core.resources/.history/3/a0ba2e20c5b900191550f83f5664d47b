@@ -1,0 +1,27 @@
+package org.zerock;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import dto.User;
+import dto.UserMapper;
+
+@RestController
+@MapperScan(basePackages = "net.chandol.study.mybatissample")
+public class HelloController {
+
+	@Autowired
+	UserMapper mapper;
+	
+	@RequestMapping("/")
+	public String index() {
+	
+		
+		User user = mapper.getUser();
+		System.out.println("=====>"+user);
+		
+
+		return "mainPage";
+	}
+}
